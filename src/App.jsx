@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "../../face-detect/src/app.css";
+import "./App.css";
 import Navbar from "./components/Navbar";
 import NewPost from "./components/NewPost";
 

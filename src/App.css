@@ -1,7 +1,6 @@
 .app {
   display: flex;
-  font-family: 'Open Sans', sans-serif;
-font-family: 'Poppins', sans-serif;
+  
 }
 
 canvas {
@@ -10,7 +9,7 @@ canvas {
 
 .navbar {
   height: 50px;
-  background-color: #4064ac;
+  background-color: #3D3C3E;
   display: flex;
   align-items: center;
   color: white;
